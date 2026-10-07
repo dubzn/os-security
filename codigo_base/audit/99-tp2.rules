@@ -1,0 +1,5 @@
+# Modificaciones y atributos bajo los datos ficticios del laboratorio.
+-a always,exit -F arch=b64 -F dir=/srv/tp2/datos -F perm=wa -k tp2_datos
+
+# Ejecucion del binario controlado mediante execve en amd64.
+-a always,exit -F arch=b64 -S execve -F path=/usr/local/bin/tp2-event -F perm=x -k tp2_exec
