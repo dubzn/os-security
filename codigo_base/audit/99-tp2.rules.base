@@ -1,0 +1,7 @@
+## TP2 SOR II - complete exactamente dos reglas.
+
+## TODO 1: vigilar modificaciones y cambios de atributos dentro de /srv/tp2/datos.
+## Use la clave tp2_datos.
+
+## TODO 2: registrar la syscall execve cuando se ejecute /usr/local/bin/tp2-event
+## en el entorno oficial amd64. Use la clave tp2_exec.

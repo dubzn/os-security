@@ -1,0 +1,14 @@
+# Complete la configuracion local de AIDE para el TP2.
+# La base activa debe ser /srv/tp2/aide/aide.db
+# La base nueva debe ser /srv/tp2/aide/aide.db.new
+# El reporte debe escribirse en stdout con detalle de atributos cambiados.
+
+# TODO: database_in
+# TODO: database_out
+# TODO: report_level
+# TODO: report_url
+
+# TODO: defina TP2_NORMAL para verificar permisos, tipo, inode, enlaces,
+# propietario, grupo, tamanio, tiempos y SHA-256.
+
+# TODO: aplique TP2_NORMAL solamente a /srv/tp2/datos.
